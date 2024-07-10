@@ -1,0 +1,12 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+
+npm run lint:ls-lint
+
+npm run lint:lint-staged
+
+npm run lint:pretty
+
+
+
