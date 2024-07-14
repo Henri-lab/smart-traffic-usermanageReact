@@ -1,0 +1,36 @@
+{
+  "notices": [
+    {
+      "id": 4,
+      "publisher": "SVIP1",
+      "type": "admin",
+      "title": "关于xxx维修事件的交通管制公告",
+      "content": "测试、、、、、、、、、、、、、、、、",
+      "date": "2023-12-24 15:28"
+    },
+    {
+      "id": 5,
+      "publisher": "SVIP1",
+      "type": "admin",
+      "title": "关于xxx碰撞事件的交通管制公告",
+      "content": "测试、、、、、、、、、、、、、、、、",
+      "date": "2023-12-24 15:28"
+    },
+    {
+      "id": 8,
+      "publisher": "user2",
+      "type": "traffic",
+      "title": "关于mjihoih维修事件的交通管制公告",
+      "content": "ceshi、、、、、、、、、、、、、、cccccccc",
+      "date": "2023-12-26 15:44"
+    },
+    {
+      "id": 9,
+      "publisher": "jiaoguan11",
+      "type": "traffic",
+      "title": "关于xxx碰撞事件的交通管制公告",
+      "content": "bbbbbbbbbbbbbceshi",
+      "date": "2023-12-26 16:13"
+    }
+  ]
+}

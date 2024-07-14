@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 4,
+      "username": "user333",
+      "password": "password1",
+      "type": "common",
+      "isOnline": false
+    },
+    {
+      "id": 7,
+      "username": "jiaoguan11",
+      "password": "12345",
+      "type": "traffic",
+      "isOnline": false
+    },
+    {
+      "id": 10,
+      "username": "3",
+      "password": "1234",
+      "type": "admin",
+      "isOnline": false
+    },
+    {
+      "id": 12,
+      "username": "SVIP1",
+      "password": "123456",
+      "type": "admin",
+      "isOnline": true
+    }
+  ]
+}

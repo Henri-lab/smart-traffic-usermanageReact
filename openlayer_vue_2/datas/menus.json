@@ -1,0 +1,359 @@
+{
+  "menus": {
+    "common": [
+      {
+        "id": 1,
+        "menuType": "1",
+        "menuName": "路况信息",
+        "icon": "icon-jiaotongbaozhangzuchang",
+        "children": [
+          {
+            "id": 11,
+            "menuType": "2",
+            "menuName": "实时路况"
+          },
+          {
+            "id": 12,
+            "menuType": "2",
+            "menuName": "关闭路况"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "menuType": "1",
+        "menuName": "报告路况",
+        "icon": "icon-shangbaowenti",
+        "children": []
+      },
+      {
+        "id": 3,
+        "menuType": "1",
+        "menuName": "查看公告",
+        "icon": "icon-chakan",
+        "children": []
+      },
+      {
+        "id": 4,
+        "menuType": "1",
+        "menuName": "工具箱",
+        "icon": "icon-gongjuxiang",
+        "children": [
+          {
+            "id": 41,
+            "menuType": "2",
+            "menuName": "测量距离"
+          },
+          {
+            "id": 42,
+            "menuType": "2",
+            "menuName": "测量面积"
+          },
+          {
+            "id": 43,
+            "menuType": "2",
+            "menuName": "关闭测量"
+          },
+          {
+            "id": 44,
+            "menuType": "2",
+            "menuName": "导出地图"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "menuType": "1",
+        "menuName": "用户名",
+        "icon": "icon-jurassic_user",
+        "children": [
+          {
+            "id": 61,
+            "menuType": "2",
+            "menuName": "修改信息"
+          },
+          {
+            "id": 62,
+            "menuType": "2",
+            "menuName": "退出登录"
+          }
+        ]
+      }
+    ],
+    "traffic": [
+      {
+        "id": 1,
+        "menuType": "1",
+        "menuName": "路况信息",
+        "icon": "icon-jiaotongbaozhangzuchang",
+        "children": [
+          {
+            "id": 11,
+            "menuType": "2",
+            "menuName": "实时路况"
+          },
+          {
+            "id": 12,
+            "menuType": "2",
+            "menuName": "关闭路况"
+          },
+          {
+            "id": 13,
+            "menuType": "2",
+            "menuName": "审核路况"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "menuType": "1",
+        "menuName": "视频监控",
+        "icon": "icon-jiemianjiankong",
+        "children": [
+          {
+            "id": 21,
+            "menuType": "2",
+            "menuName": "打开监控"
+          },
+          {
+            "id": 22,
+            "menuType": "2",
+            "menuName": "关闭监控"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "menuType": "1",
+        "menuName": "公告管理",
+        "icon": "icon-icon-test",
+        "children": [
+          {
+            "id": 31,
+            "menuType": "2",
+            "menuName": "查看公告"
+          },
+          {
+            "id": 32,
+            "menuType": "2",
+            "menuName": "发布公告"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "menuType": "1",
+        "menuName": "事件管理",
+        "icon": "icon-shijianguanli1",
+        "children": [
+          {
+            "id": 41,
+            "menuType": "2",
+            "menuName": "查询事件"
+          },
+          {
+            "id": 42,
+            "menuType": "2",
+            "menuName": "取消查询"
+          },
+          {
+            "id": 43,
+            "menuType": "2",
+            "menuName": "更新事件状态"
+          },
+          {
+            "id": 44,
+            "menuType": "2",
+            "menuName": "添加事件"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "menuType": "1",
+        "menuName": "工具箱",
+        "icon": "icon-gongjuxiang",
+        "children": [
+          {
+            "id": 51,
+            "menuType": "2",
+            "menuName": "测量距离"
+          },
+          {
+            "id": 52,
+            "menuType": "2",
+            "menuName": "测量面积"
+          },
+          {
+            "id": 53,
+            "menuType": "2",
+            "menuName": "关闭测量"
+          },
+          {
+            "id": 54,
+            "menuType": "2",
+            "menuName": "导出地图"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "menuType": "1",
+        "menuName": "用户名",
+        "icon": "icon-jurassic_user",
+        "children": [
+          {
+            "id": 61,
+            "menuType": "2",
+            "menuName": "修改信息"
+          },
+          {
+            "id": 62,
+            "menuType": "2",
+            "menuName": "退出登录"
+          }
+        ]
+      }
+    ],
+    "admin": [
+      {
+        "id": 1,
+        "menuType": "1",
+        "menuName": "路况信息",
+        "icon": "icon-jiaotongbaozhangzuchang",
+        "children": [
+          {
+            "id": 11,
+            "menuType": "2",
+            "menuName": "实时路况"
+          },
+          {
+            "id": 12,
+            "menuType": "2",
+            "menuName": "关闭路况"
+          },
+          {
+            "id": 13,
+            "menuType": "2",
+            "menuName": "审核路况"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "menuType": "1",
+        "menuName": "视频监控",
+        "icon": "icon-jiemianjiankong",
+        "children": [
+          {
+            "id": 21,
+            "menuType": "2",
+            "menuName": "打开监控"
+          },
+          {
+            "id": 22,
+            "menuType": "2",
+            "menuName": "关闭监控"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "menuType": "1",
+        "menuName": "公告管理",
+        "icon": "icon-icon-test",
+        "children": [
+          {
+            "id": 31,
+            "menuType": "2",
+            "menuName": "查看公告"
+          },
+          {
+            "id": 32,
+            "menuType": "2",
+            "menuName": "发布公告"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "menuType": "1",
+        "menuName": "事件管理",
+        "icon": "icon-shijianguanli1",
+        "children": [
+          {
+            "id": 41,
+            "menuType": "2",
+            "menuName": "查询事件"
+          },
+          {
+            "id": 42,
+            "menuType": "2",
+            "menuName": "取消查询"
+          },
+          {
+            "id": 43,
+            "menuType": "2",
+            "menuName": "更新事件状态"
+          },
+          {
+            "id": 44,
+            "menuType": "2",
+            "menuName": "添加事件"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "menuType": "1",
+        "menuName": "工具箱",
+        "icon": "icon-gongjuxiang",
+        "children": [
+          {
+            "id": 51,
+            "menuType": "2",
+            "menuName": "测量距离"
+          },
+          {
+            "id": 52,
+            "menuType": "2",
+            "menuName": "测量面积"
+          },
+          {
+            "id": 53,
+            "menuType": "2",
+            "menuName": "关闭测量"
+          },
+          {
+            "id": 54,
+            "menuType": "2",
+            "menuName": "导出地图"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "menuType": "1",
+        "menuName": "用户名",
+        "icon": "icon-jurassic_user",
+        "children": [
+          {
+            "id": 61,
+            "menuType": "2",
+            "menuName": "用户管理"
+          },
+          {
+            "id": 62,
+            "menuType": "2",
+            "menuName": "修改信息"
+          },
+          {
+            "id": 63,
+            "menuType": "2",
+            "menuName": "退出登录"
+          }
+        ]
+      }
+    ]
+  }
+}
