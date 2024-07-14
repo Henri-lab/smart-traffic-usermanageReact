@@ -73,8 +73,9 @@ const LoginForm: React.FC = (props: any) => {
                     className="login-btn"
                 >
                     login in
-                </Button>
-                <br />
+                </Button>  
+            </Form.Item>
+            <Form.Item>
                 <Button
                     type="primary"
                     htmlType="submit"
