@@ -10,6 +10,7 @@ import { useMessage } from '/@/hooks/message'
 import { LoginApiForm } from '/@/interface/index'
 import { setName, setPermissions, setToken } from '/@/redux/modules/user/action'
 import { clearInfo } from '/@/redux/modules/user/action'
+import { log } from 'console'
 const LoginForm: React.FC = (props: any) => {
     const { setToken, setName, clearInfo, setPermissions } = props// 组件内部可以通过 props 访问状态和方法
     const { uesErrorMsg, uesSuccessMsg } = useMessage()
@@ -21,6 +22,7 @@ const LoginForm: React.FC = (props: any) => {
             clearInfo()
             setLoading(true)
             const { token, permissions } = await login(values)
+            console.log('values',permissions);
             setToken(token)
             setPermissions(permissions)
             setName(values.username)
