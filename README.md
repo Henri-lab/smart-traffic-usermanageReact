@@ -1,4 +1,3 @@
 @henriFox 学习型项目
-前端项目来源-React mu admin
 学习react，上手react，将基础代码做好详细的注释和知识补充
 在此基础下改进为自适应的模板，配合Express完成前后端的交互
